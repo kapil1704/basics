@@ -1,0 +1,11 @@
+test_twig:
+  version: 8.0.0
+  css:
+    base:
+      css/style.css: {}
+  js:
+      js/index.js: {}
+
+
+
+

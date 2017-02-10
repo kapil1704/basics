@@ -1,0 +1,9 @@
+name: Test Twig
+type: module
+description: 'Dropbox Testing.'
+package: Custom
+version: 8.x
+core: 8.x
+dependencies:
+  - field
+  - block

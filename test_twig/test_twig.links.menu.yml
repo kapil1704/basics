@@ -1,0 +1,7 @@
+test_twig.admin:
+  title: 'test twig'
+  description: 'This is a test_twig'
+  parent: system.admin_structure
+  route_name: test_twig
+  weight: 100
+  menu_name: test_twig
